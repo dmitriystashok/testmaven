@@ -1,0 +1,7 @@
+<acceptance-test-run title="Searching by ambiguious keyword should display the disambiguation page" name="searching_by_ambiguious_keyword_should_display_the_disambiguation_page" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="PENDING" result="PENDING" duration="349" timestamp="2017-01-13T18:44:28.365+02:00" session-id="45926359-328b-4225-8147-6bc08359e963" test-source="JUnit">
+  <user-story id="com.dimaTestJunit.features.search.SearchByKeywordStory" name="Search by keyword story" path="com.dimaTestJunit.features.search"/>
+  <tags>
+    <tag name="Search" type="capability"/>
+    <tag name="Search by keyword story" type="story"/>
+  </tags>
+</acceptance-test-run>

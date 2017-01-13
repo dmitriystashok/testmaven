@@ -1,0 +1,26 @@
+<acceptance-test-run title="Search for auto test info" name="searchForAutoTestInfo" steps="3" successful="3" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="11944" timestamp="2017-01-13T18:44:14.387+02:00" session-id="45926359-328b-4225-8147-6bc08359e963" test-source="JUnit">
+  <user-story id="com.dimaTestJunit.features.search.SearchByKeywordStory" name="Search by keyword story" path="com.dimaTestJunit.features.search"/>
+  <tags>
+    <tag name="Search" type="capability"/>
+    <tag name="Search by keyword story" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="9365">
+    <screenshots>
+      <screenshot image="291936e05080c913531d4e75ae3321a4.png"/>
+    </screenshots>
+    <description>Is on start page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="653">
+    <screenshots>
+      <screenshot image="3666d8d95aa520b4a1251179d0fa75c9.png"/>
+    </screenshots>
+    <description>Search</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1226">
+    <screenshots>
+      <screenshot image="439ebbd910ef8fdcee16abaa95360050.png"/>
+      <screenshot image="16863b4b0a6aba6f6a91f6bf25fedbc3.png"/>
+    </screenshots>
+    <description>See search result</description>
+  </test-step>
+</acceptance-test-run>

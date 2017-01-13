@@ -1,0 +1,10 @@
+<acceptance-test-run title="Searching by keyword apple should display the corresponding article" name="searching_by_keyword_apple_should_display_the_corresponding_article" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" annotated-result="IGNORED" result="IGNORED" duration="0" timestamp="2017-01-13T18:44:28.719+02:00" test-source="JUnit">
+  <user-story id="com.dimaTestJunit.features.search.SearchByKeywordStory" name="Search by keyword story" path="com.dimaTestJunit.features.search"/>
+  <issues>
+    <issue>#WIKI-1</issue>
+  </issues>
+  <tags>
+    <tag name="Search" type="capability"/>
+    <tag name="Search by keyword story" type="story"/>
+  </tags>
+</acceptance-test-run>
